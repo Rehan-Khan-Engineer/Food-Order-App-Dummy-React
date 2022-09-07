@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Food-Order-App-Dummy-React/static/css/main.ca3447b4.chunk.css",
+    "main.css": "/Food-Order-App-Dummy-React/static/css/main.59d36397.chunk.css",
     "main.js": "/Food-Order-App-Dummy-React/static/js/main.4fafd2ba.chunk.js",
     "main.js.map": "/Food-Order-App-Dummy-React/static/js/main.4fafd2ba.chunk.js.map",
     "runtime-main.js": "/Food-Order-App-Dummy-React/static/js/runtime-main.c0434c94.js",
@@ -8,14 +8,14 @@
     "static/js/2.c694d58e.chunk.js": "/Food-Order-App-Dummy-React/static/js/2.c694d58e.chunk.js",
     "static/js/2.c694d58e.chunk.js.map": "/Food-Order-App-Dummy-React/static/js/2.c694d58e.chunk.js.map",
     "index.html": "/Food-Order-App-Dummy-React/index.html",
-    "static/css/main.ca3447b4.chunk.css.map": "/Food-Order-App-Dummy-React/static/css/main.ca3447b4.chunk.css.map",
+    "static/css/main.59d36397.chunk.css.map": "/Food-Order-App-Dummy-React/static/css/main.59d36397.chunk.css.map",
     "static/js/2.c694d58e.chunk.js.LICENSE.txt": "/Food-Order-App-Dummy-React/static/js/2.c694d58e.chunk.js.LICENSE.txt",
     "static/media/meals.2971f633.jpg": "/Food-Order-App-Dummy-React/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c0434c94.js",
     "static/js/2.c694d58e.chunk.js",
-    "static/css/main.ca3447b4.chunk.css",
+    "static/css/main.59d36397.chunk.css",
     "static/js/main.4fafd2ba.chunk.js"
   ]
 }
